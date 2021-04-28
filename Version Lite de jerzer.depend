@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1619543703 source:/home/leo/Documentos/Version Lite de jerzer/main.cpp
+	<iostream>
+	<stdio.h>
+
+1619564569 source:/home/leo/Documentos/Version Lite de jerzer/agenda.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1619572038 source:/home/leo/Documentos/Version Lite de jerzer/menu.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<termios.h>
+	<unistd.h>
+
+1619566509 source:/home/leo/Documentos/Version Lite de jerzer/temporizador.cpp
+
+1619563635 /home/leo/Documentos/Version Lite de jerzer/conioGetch.h
+	<stdio.h>
+	<termios.h>
+	<unistd.h>
+
+1619564617 /home/leo/Documentos/Version Lite de jerzer/gotoxy.h
+	<stdio.h>
+	<stdlib.h>
+

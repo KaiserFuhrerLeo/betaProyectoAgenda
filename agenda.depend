@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1619591808 source:/home/leo/Documentos/Proyecto Agenda/agenda.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1619578066 source:/home/leo/Documentos/Proyecto Agenda/main.cpp
+	<iostream>
+	<stdio.h>
+
+1619593809 source:/home/leo/Documentos/Proyecto Agenda/temporizador.cpp
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+
+1619594198 source:/home/leo/Documentos/Proyecto Agenda/menu.cpp
+	"conioGetch.h"
+	"gotoxy.h"
+	<stdlib.h>
+
+1619576720 /home/leo/Documentos/Proyecto Agenda/conioGetch.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<termios.h>
+	<unistd.h>
+
+1619578560 /home/leo/Documentos/Proyecto Agenda/gotoxy.h
+	<stdio.h>
+	<stdlib.h>
+
+1619594015 source:/home/leo/Documentos/Proyecto Agenda/temp.cpp
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+
+1619591808 source:/home/leo/Documentos/zzzz/Proyecto Agenda (1)/agenda.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1619578066 source:/home/leo/Documentos/zzzz/Proyecto Agenda (1)/main.cpp
+	<iostream>
+	<stdio.h>
+
+1619594198 source:/home/leo/Documentos/zzzz/Proyecto Agenda (1)/menu.cpp
+	"conioGetch.h"
+	"gotoxy.h"
+	<stdlib.h>
+
+1619576720 /home/leo/Documentos/zzzz/Proyecto Agenda (1)/conioGetch.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<termios.h>
+	<unistd.h>
+
+1619578560 /home/leo/Documentos/zzzz/Proyecto Agenda (1)/gotoxy.h
+	<stdio.h>
+	<stdlib.h>
+
+1619594901 source:/home/leo/Documentos/zzzz/Proyecto Agenda (1)/temp.cpp
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	"conioGetch.h"
+
+1619593809 source:/home/leo/Documentos/zzzz/Proyecto Agenda (1)/temporizador.cpp
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+
